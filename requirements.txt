@@ -1,0 +1,38 @@
+# Dependências principais do projeto
+spacy
+spacy-transformers
+beautifulsoup4
+langchain
+torch
+torchvision
+torchaudio
+
+# Dependências para GPU (opcional - descomente conforme sua versão CUDA)
+# cupy-cuda11x  # Para CUDA 11.x
+# cupy-cuda12x  # Para CUDA 12.x
+
+# Dependências para interface web
+flask
+
+# Dependências para processamento de dados
+lxml
+requests
+
+# Dependências para análise e visualização
+matplotlib
+seaborn
+pandas
+numpy
+
+# Dependências para logging e utilitários
+tqdm
+colorama
+
+# Dependências para modelos de linguagem
+transformers
+datasets
+
+# Dependências para desenvolvimento (opcional)
+jupyter
+notebook
+ipython 

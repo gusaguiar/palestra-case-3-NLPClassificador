@@ -1,0 +1,8 @@
+2025-06-10 10:46:26,949 - INFO - Loaded data from file successfully.
+2025-06-10 10:46:27,175 - INFO - Training Data: 5600 entries
+2025-06-10 10:46:27,175 - INFO - Development Data: 700 entries
+2025-06-10 10:46:27,176 - INFO - Test Data: 700 entries
+2025-06-10 10:48:22,286 - INFO - Training data processed and added to DocBin.
+2025-06-10 10:48:34,245 - INFO - Development data processed and added to DocBin.
+2025-06-10 10:48:47,252 - INFO - Test data processed and added to DocBin.
+2025-06-10 10:48:48,390 - INFO - Processed data saved to disk.

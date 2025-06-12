@@ -1,0 +1,62 @@
+{
+  "token_acc":1.0,
+  "token_p":1.0,
+  "token_r":1.0,
+  "token_f":1.0,
+  "cats_score":0.9970779698,
+  "cats_score_desc":"macro F",
+  "cats_micro_p":0.9971428571,
+  "cats_micro_r":0.9971428571,
+  "cats_micro_f":0.9971428571,
+  "cats_macro_p":0.9971137026,
+  "cats_macro_r":0.9970721122,
+  "cats_macro_f":0.9970779698,
+  "cats_macro_auc":0.9999304011,
+  "cats_f_per_type":{
+    "Portaria":{
+      "p":1.0,
+      "r":1.0,
+      "f":1.0
+    },
+    "Edital":{
+      "p":1.0,
+      "r":1.0,
+      "f":1.0
+    },
+    "Extrato de Termo Aditivo":{
+      "p":1.0,
+      "r":1.0,
+      "f":1.0
+    },
+    "Extrato de Contrato":{
+      "p":0.9897959184,
+      "r":1.0,
+      "f":0.9948717949
+    },
+    "Aviso de Licita\u00e7\u00e3o":{
+      "p":1.0,
+      "r":0.9907407407,
+      "f":0.9953488372
+    },
+    "Extrato de Conv\u00eanio":{
+      "p":1.0,
+      "r":0.9887640449,
+      "f":0.9943502825
+    },
+    "Resultado de Julgamento":{
+      "p":0.99,
+      "r":1.0,
+      "f":0.9949748744
+    }
+  },
+  "cats_auc_per_type":{
+    "Portaria":1.0,
+    "Edital":1.0,
+    "Extrato de Termo Aditivo":1.0,
+    "Extrato de Contrato":1.0,
+    "Aviso de Licita\u00e7\u00e3o":0.9995464214,
+    "Extrato de Conv\u00eanio":1.0,
+    "Resultado de Julgamento":0.999966386
+  },
+  "speed":35637.7156829232
+}

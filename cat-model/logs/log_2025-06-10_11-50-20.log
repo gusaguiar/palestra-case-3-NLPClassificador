@@ -1,0 +1,11 @@
+2025-06-10 11:50:20,692 INFO:Modelo encontrado: cat-model/models/cnn/model-best
+2025-06-10 11:50:20,693 INFO:Loading model from cat-model/models/cnn/model-best
+2025-06-10 11:50:25,796 INFO:Model loaded successfully
+2025-06-10 11:50:25,796 INFO:Loading test data from cat-model/prepared-data/test.spacy
+2025-06-10 11:50:25,796 INFO:Loading data from cat-model/prepared-data/test.spacy
+2025-06-10 11:50:26,217 INFO:Data loaded successfully with 700 documents
+2025-06-10 11:50:29,298 INFO:Test data formatted into Example objects successfully
+2025-06-10 11:50:29,512 INFO:Evaluation started
+2025-06-10 11:50:30,880 INFO:Evaluation completed successfully
+2025-06-10 11:50:30,880 INFO:Evaluation scores: {'token_acc': 1.0, 'token_p': 1.0, 'token_r': 1.0, 'token_f': 1.0, 'sents_p': None, 'sents_r': None, 'sents_f': None, 'tag_acc': 0.0, 'pos_acc': 0.0, 'morph_acc': 0.0, 'morph_micro_p': 0.0, 'morph_micro_r': 0.0, 'morph_micro_f': 0.0, 'morph_per_feat': {'Gender': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Number': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'NumType': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Mood': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Person': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Tense': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'VerbForm': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Definite': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'PronType': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Voice': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Case': {'p': 0.0, 'r': 0.0, 'f': 0.0}, 'Polarity': {'p': 0.0, 'r': 0.0, 'f': 0.0}}, 'dep_uas': None, 'dep_las': None, 'dep_las_per_type': None, 'ents_p': None, 'ents_r': None, 'ents_f': None, 'ents_per_type': None, 'cats_score': 0.0, 'cats_score_desc': 'macro F', 'cats_micro_p': 0.0, 'cats_micro_r': 0.0, 'cats_micro_f': 0.0, 'cats_macro_p': 0.0, 'cats_macro_r': 0.0, 'cats_macro_f': 0.0, 'cats_macro_auc': 0.0, 'cats_f_per_type': {}, 'cats_auc_per_type': {}}
+2025-06-10 11:50:30,932 ERROR:Error during evaluation: 'NoneType' object has no attribute 'items'
